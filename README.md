@@ -99,5 +99,7 @@ Currently, this project serves as a **Hybrid Digital Twin Architecture**.
 This is an open-source, civilization-scale initiative. Quantum phreaks, computational biologists, macro-economists, and system architects are welcome to clone, fork, and submit Pull Requests to expand the complexity of the core feedback loops.
 Distributed under the MIT License. Built for the advancement of planetary-scale technical integration.
 
-<img width="1600" height="923" alt="civilizational-quantum-circuit png" src="https://github.com/user-attachments/assets/fc024557-c8f9-442d-ac24-aadaf6a4f028" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fc024557-c8f9-442d-ac24-aadaf6a4f028" alt="civilizational-quantum-circuit" width="100%" />
+</p>
 
