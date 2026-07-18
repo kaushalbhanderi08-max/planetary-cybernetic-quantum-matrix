@@ -59,6 +59,7 @@ Alg 10 & 9: Bio-Chemicals & Mood  ───────────────�
 ## 🚀 Live Simulation Network Protocol & Timestamp Verification
 
 To maintain data integrity across the global ecosystem matrix, every quantum compilation event injects a synchronized ledger verification anchor. 
+[Click here to view Civilizational Quantum Circuit Architecture Diagram](https://github.com/user-attachments/assets/fc024557-c8f9-442d-ac24-aadaf6a4f028)
 
 ```python
 import time
@@ -98,4 +99,4 @@ Currently, this project serves as a **Hybrid Digital Twin Architecture**.
 🤝 Contributing
 This is an open-source, civilization-scale initiative. Quantum phreaks, computational biologists, macro-economists, and system architects are welcome to clone, fork, and submit Pull Requests to expand the complexity of the core feedback loops.
 Distributed under the MIT License. Built for the advancement of planetary-scale technical integration.
-![civilizational-quantum-circuit](https://github.com/user-attachments/assets/fc024557-c8f9-442d-ac24-aadaf6a4f028)
+
