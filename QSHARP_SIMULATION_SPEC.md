@@ -77,17 +77,21 @@ namespace PlanetaryQuantumMatrix {
 
 ```
 ---
+
 ## 📊 2. Azure Quantum Resource Estimator Scaling Roadmap
-To benchmark execution on Microsoft's Majorana 2 Topological Hardware, the system is modeled across four Logical Qubit scaling tiers in Azure Quantum Resource Estimator:
-Scaling Model,Total Logical Qubits,Target Subsystems,Topological Code Distance (d),Estimated Physical Qubits
-Tier 1 (Base Model),14 Logical Qubits,1 Qubit / Channel,d=7,"∼1,400"
-Tier 2 (Full Encoding),29 Logical Qubits,Full Phase A Mapping,d=11,"∼5,800"
-Tier 3 (High-Fidelity),56 Logical Qubits,High Precision Amplitude Space,d=15,"∼18,000"
-Tier 4 (Global Scale),112 Logical Qubits,Multi-Region Digital Twin Nodes,d=21,"∼72,000"
+
+To benchmark execution on Microsoft's **Majorana 2 Topological Hardware**, the system is modeled across four Logical Qubit scaling tiers in Azure Quantum Resource Estimator:
+
+| Scaling Model | Total Logical Qubits | Target Subsystems | Topological Code Distance ($d$) | Estimated Physical Qubits |
+| :--- | :---: | :---: | :---: | :---: |
+| **Tier 1 (Base Model)** | **14 Logical Qubits** | 1 Qubit / Channel | $d = 7$ | $\sim 1,400$ |
+| **Tier 2 (Full Encoding)** | **29 Logical Qubits** | Full Phase A Mapping | $d = 11$ | $\sim 5,800$ |
+| **Tier 3 (High-Fidelity)** | **56 Logical Qubits** | High Precision Amplitude Space | $d = 15$ | $\sim 18,000$ |
+| **Tier 4 (Global Scale)** | **112 Logical Qubits** | Multi-Region Digital Twin Nodes | $d = 21$ | $\sim 72,000$ |
 
 ---
 
 ## 🛡️ 3. Execution Verification Criteria
-*Hardware Target: Microsoft Majorana 2 (Measurement-Centric Topological Qubits).
-*Fault Tolerance Strategy: Surface Code Stabilizer Syndrome Checkpoints ($S_1, S_2, S_3$).
-*Execution Goal: Demonstrate non-local feedback correlation speedup over classical cybernetic simulation.
+* **Hardware Target:** Microsoft Majorana 2 (Measurement-Centric Topological Qubits).
+* **Fault Tolerance Strategy:** Surface Code Stabilizer Syndrome Checkpoints ($S_1, S_2, S_3$).
+* **Execution Goal:** Demonstrate non-local feedback correlation speedup over classical cybernetic simulation.
