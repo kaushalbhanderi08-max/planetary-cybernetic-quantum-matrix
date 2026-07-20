@@ -58,6 +58,8 @@ Alg 10 & 9: Bio-Chemicals & Mood  ───────────────�
 
 ## 🚀 Live Simulation Network Protocol & Timestamp Verification
 
+![Azure Quantum Simulation Results](./quantum-proof.png)
+
 To maintain data integrity across the global ecosystem matrix, every quantum compilation event injects a synchronized ledger verification anchor. 
 [Click here to view Civilizational Quantum Circuit Architecture Diagram](https://github.com/user-attachments/assets/fc024557-c8f9-442d-ac24-aadaf6a4f028)
 
