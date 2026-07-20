@@ -74,9 +74,9 @@ Interleaving stabilizer syndrome measurements across cybernetic feedback loops:
 
 UGov ➔ [Syndrome Checkpoint] ➔ USens ➔ [Syndrome Checkpoint] ➔ UAct ➔ [Measurement]
 
-* S_1 = Z_G Z_E: Governance ↔ Economy
-* S_2 = Z_B Z_S: Biology ↔ Senses
-* S_3 = Z_H Z_{IoT}: Human ↔ Infrastructure
+* **$S_1 = Z_G Z_E$**: Governance $\leftrightarrow$ Economy
+* **$S_2 = Z_B Z_S$**: Biology $\leftrightarrow$ Senses
+* **$S_3 = Z_H Z_{IoT}$**: Human $\leftrightarrow$ Infrastructure
 
 ---
 
