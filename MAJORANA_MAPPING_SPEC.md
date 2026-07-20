@@ -70,15 +70,15 @@ UGov ➔ [Syndrome Checkpoint] ➔ USens ➔ [Syndrome Checkpoint] ➔ UAct ➔ 
 ## 🗺️ Next Build Phases
 
 * Phase A: Define State Encoding Specification for all 14 channels.
-* **Phase B: Formalize Amplitude, Phase, and Measurement parameters per channel.
-* **Phase C: Build 14 * 14 Entanglement Adjacency Matrix.
-* **Phase D: Simulate via Azure Quantum Resource Estimator across 14, 28, 56, and 112 Logical Qubit scaling models.
+* Phase B: Formalize Amplitude, Phase, and Measurement parameters per channel.
+* Phase C: Build 14 * 14 Entanglement Adjacency Matrix.
+* Phase D: Simulate via Azure Quantum Resource Estimator across 14, 28, 56, and 112 Logical Qubit scaling models.
 
 ---
 
 ## 📊 Final Architecture Readiness Score
 
-* **System Architecture Maturity: 7/10
-* **Quantum Formalization: 3/10
-* **Majorana 2 Compatibility: Promising
-* **Hardware Deployability: In-Progress (Experimental Stage)
+* System Architecture Maturity: 7/10
+* Quantum Formalization: 3/10
+* Majorana 2 Compatibility: Promising
+* Hardware Deployability: In-Progress (Experimental Stage)
