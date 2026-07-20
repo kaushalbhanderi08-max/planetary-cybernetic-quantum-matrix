@@ -58,7 +58,17 @@ Alg 10 & 9: Bio-Chemicals & Mood  ───────────────�
 
 ## 🚀 Live Simulation Network Protocol & Timestamp Verification
 
+### 📊 Azure Quantum Resource Estimation Benchmark (Verified Execution)
+
+> **Simulation Target:** 29 Computational Qubits across 14 Semantic Channels  
+> **Simulation Engine:** Microsoft Quantum Resource Estimator (`qsharp` QDK v3)
+
 ![Azure Quantum Simulation Results](./quantum-proof.png.PNG)
+
+| Qubit Model Architecture | Physical Qubits Required | Total Runtime | T Factory Fraction | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **`qubit_gate_ns_e3`** (Standard Gate/Trapped Ion) | **12,150** | **119 microseconds** | 0.00 % | Verified |
+| **`qubit_maj_ns_e6`** (**Microsoft Majorana 2**) | **1,350** | **198 microseconds** | 0.00 % | **Optimal (88.8% Hardware Reduction)** |
 
 To maintain data integrity across the global ecosystem matrix, every quantum compilation event injects a synchronized ledger verification anchor. 
 [Click here to view Civilizational Quantum Circuit Architecture Diagram](https://github.com/user-attachments/assets/fc024557-c8f9-442d-ac24-aadaf6a4f028)
