@@ -78,7 +78,7 @@ To maintain data integrity across the global ecosystem matrix, every quantum com
 > **Matrix Scale:** 369 Centillion Governance & Human I/O Feedback Loop  
 > **Quantum Execution Bus:** 14 Parallel Algorithmic Registers with Dynamic State Collapsing
 
-![Civilizational Quantum Circuit Architecture Diagram](https://github.com/user-attachments/assets/fc024557-c8f9-442d-ac24-aadaf6a4f028))
+![Civilizational Quantum Circuit Architecture Diagram](https://github.com/user-attachments/assets/fc024557-c8f9-442d-ac24-aadaf6a4f028)
 
 #### 🔄 Quantum Circuit Phase Pipeline
 * **Phase 1: Latent State Superposition ($H$)** – Initializing Hadamard gates across all 14 algorithmic channels.
@@ -111,7 +111,9 @@ def generate_planetary_block_anchor(repository_state="PUBLIC"):
 # Initialize current global matrix heartbeat tracking
 print(generate_planetary_block_anchor())
 
-🔬 Theoretical Foundations & Future Trajectory
+```
+
+## 🔬 Theoretical Foundations & Future Trajectory
 This public framework actively researches the boundaries of:
 Quantum Chronobiology: Mapping molecular biological rhythms directly onto qubit phase spaces.
 Fractal Quantum Computing: Structuring self-repeating complex planetary datasets across high-dimensional matrices without collapsing coherence.
