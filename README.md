@@ -63,7 +63,7 @@ Alg 10 & 9: Bio-Chemicals & Mood  ───────────────�
 > **Simulation Target:** 29 Computational Qubits across 14 Semantic Channels  
 > **Simulation Engine:** Microsoft Quantum Resource Estimator (`qsharp` QDK v3)
 
-![Azure Quantum Simulation Results](./quantum-proof.png.PNG)
+![Azure Quantum Simulation Results](./assets/quantum-proof.png.PNG)
 
 | Qubit Model Architecture | Physical Qubits Required | Total Runtime | T Factory Fraction | Status |
 | :--- | :--- | :--- | :--- | :--- |
